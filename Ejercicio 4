@@ -1,0 +1,17 @@
+<! DOCTYPE html >
+< html >
+  < cabeza >
+    < meta  charset = " utf-8 " >
+    < título > Ejercicio 4 </ título >
+  </ cabeza >
+  < cuerpo >
+    < h1 > Aspecto de HTML </ h1 >
+    < p > < fuerte > Esto es una negrita </ fuerte > </ p >
+    < p > < i > Esto en cursiva </ i > </ p >
+    < p > < u > Esto subrayado </ u > </ p >
+    < p  style = " font-size: 20px " > Letra grande </ p >
+    < p  style = " font-size: 6px " > Letra pequeña </ p >
+    < p  style = " color: white " > Letra blanca </ p >
+    < p  style = " background-color: red " > Esta frase tendrá el fondo rojo </ p >
+  </ cuerpo >
+</ html >
